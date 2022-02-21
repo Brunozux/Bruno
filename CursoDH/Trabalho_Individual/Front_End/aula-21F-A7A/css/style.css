@@ -1,0 +1,22 @@
+h1 {
+    color: teal;
+    font-size: 200px;   
+}
+.titulo-principal {
+    color: red;
+}
+
+#lista-de-compras {
+    font-size: 50px;
+}
+.quadrinhos {
+    font-family: "comic sans";
+}
+.font-dh {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.font-dh-bold{
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: bolder;
+}
