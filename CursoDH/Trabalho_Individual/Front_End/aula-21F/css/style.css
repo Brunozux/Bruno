@@ -1,0 +1,25 @@
+body {
+    background-color: #ccc;
+    color: rgb(27, 113, 189);
+}
+ h1 {
+     text-align: center;
+     font-size: 50px;
+     font-family: monospace;
+     text-shadow: 2px 2px 3px #FFF;
+ }
+.text-highlight {
+ background-color: yellow;
+ color: black;
+ font-size: 40px;
+ text-align: center;
+ border-bottom: 1px solid #000;
+
+}
+
+h3 {
+    color: aqua;
+    font-size: 40px;
+    text-transform: uppercase;
+
+}
